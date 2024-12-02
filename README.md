@@ -1,3 +1,4 @@
+
 # GamingFriendsApp
 
 (Not mine and not me)
@@ -17,3 +18,8 @@ ppl finder?
 人肉搜尋?
 
 Findg family member?!(Something happend?)
+
+
+## Please Read
+
+https://learn.microsoft.com/en-us/gaming/azure/game-streaming/overview
